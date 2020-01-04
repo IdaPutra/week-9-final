@@ -1,0 +1,27 @@
+{
+  "name": "week-9-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IdaPutra/week-9-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IdaPutra/week-9-final/issues"
+  },
+  "homepage": "https://github.com/IdaPutra/week-9-final#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "inquirer": "^7.0.1",
+    "util": "^0.12.1"
+  }
+}
